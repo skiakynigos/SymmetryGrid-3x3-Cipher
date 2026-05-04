@@ -5,6 +5,7 @@ Welcome to the **SymmGrid Protocol**, a revolutionary leap from standard algebra
 
 ---
 
+
 ## 🛰️ The Core Philosophy: "Spatial Ghosting"
 Traditional ciphers like AES waste CPU cycles on heavy matrix multiplications ($O(n^3)$). **SymmGrid** operates on a different principle: **Movement over Math.** By treating data as coordinates in a 9x9 Magic Square, we achieve **"Spatial Ghosting"**—where every bit of data is relocated recursively across the grid. The identity of the data remains, but its "address" becomes a mathematical ghost that only the holder of the **Deterministic Anchor** can summon.
 

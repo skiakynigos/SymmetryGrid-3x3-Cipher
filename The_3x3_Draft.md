@@ -29,4 +29,4 @@ To scramble a grid, the system executes these core phases:
 
 ## Security Analysis
 1. Non-Linearity: Because of the wrapping (Modular 3), you can't use simple linear logic to guess the next position.
-2. Deterministic Chaos: To an outsider, it looks like a random shuffle, but it’s a calculated dance where every number knows its partner's new address.
+2. Deterministic Chaos: To an outsider, it looks like a random shuffle, but it’s a calculated dance where every number knows its partner's new address.   

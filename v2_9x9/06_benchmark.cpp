@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2026 Vansh Aggarwal
+ * Licensed under the MIT License.
+ * See the LICENSE file in the project root for more information.
+ */
+
 #include <iostream>
 #include <vector>
 #include <chrono>
